@@ -1,0 +1,7 @@
+  <tool name="llvm-analyzer-ccompiler" version="16.0.3-30a94a0988f5482a5c382d0ed262f413" type="compiler">
+    <use name="llvm-ccompiler"/>
+    <client>
+      <environment name="LLVM_ANALYZER_CCOMPILER_BASE" default="/cvmfs/cms.cern.ch/el8_amd64_gcc11/external/llvm/16.0.3-30a94a0988f5482a5c382d0ed262f413"/>
+      <environment name="CC" value="$LLVM_ANALYZER_CCOMPILER_BASE/bin/ccc-analyzer"/>
+    </client>
+  </tool>

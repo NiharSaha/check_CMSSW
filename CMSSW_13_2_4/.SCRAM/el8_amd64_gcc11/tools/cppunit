@@ -1,0 +1,28 @@
+{
+  "CPPUNIT_BASE": "/cvmfs/cms.cern.ch/el8_amd64_gcc11/external/cppunit/1.15.x-6748e4047047d9556fd9ff8edb671e5f",
+  "INCLUDE": [
+    "/cvmfs/cms.cern.ch/el8_amd64_gcc11/external/cppunit/1.15.x-6748e4047047d9556fd9ff8edb671e5f/include"
+  ],
+  "LIB": [
+    "cppunit"
+  ],
+  "LIBDIR": [
+    "/cvmfs/cms.cern.ch/el8_amd64_gcc11/external/cppunit/1.15.x-6748e4047047d9556fd9ff8edb671e5f/lib"
+  ],
+  "RUNTIME": {
+    "PATH:ROOT_INCLUDE_PATH": [
+      "/cvmfs/cms.cern.ch/el8_amd64_gcc11/external/cppunit/1.15.x-6748e4047047d9556fd9ff8edb671e5f/include"
+    ]
+  },
+  "TOOLNAME": "cppunit",
+  "TOOLVERSION": "1.15.x-6748e4047047d9556fd9ff8edb671e5f",
+  "USE": [
+    "root_cxxdefaults",
+    "sockets"
+  ],
+  "VARIABLES": [
+    "CPPUNIT_BASE",
+    "LIBDIR",
+    "INCLUDE"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "LIB": [
+    "boost_filesystem"
+  ],
+  "TOOLNAME": "boost_filesystem",
+  "TOOLVERSION": "1.80.0-5305613b2f750cf1a05dcadf0d672647",
+  "USE": [
+    "boost_system",
+    "boost"
+  ]
+}

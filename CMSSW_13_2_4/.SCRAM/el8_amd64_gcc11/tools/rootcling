@@ -1,0 +1,19 @@
+{
+  "FLAGS": {
+    "OVERRIDABLE_FLAGS": [
+      "ROOTCLING_ARGS"
+    ]
+  },
+  "LIB": [
+    "Core"
+  ],
+  "TOOLNAME": "rootcling",
+  "TOOLVERSION": "6.26.11-50eed3272fcfa103ebe9cf3182b98eb9",
+  "USE": [
+    "root_interface",
+    "sockets",
+    "pcre",
+    "zlib",
+    "xz"
+  ]
+}

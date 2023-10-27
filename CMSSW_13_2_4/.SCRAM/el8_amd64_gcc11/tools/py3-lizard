@@ -1,0 +1,13 @@
+{
+  "PY3_LIZARD_BASE": "/cvmfs/cms.cern.ch/el8_amd64_gcc11/external/py3-lizard/1.17.10-7325ccd1e86851bf627762cb90e094a4",
+  "RUNTIME": {
+    "PATH:PATH": [
+      "/cvmfs/cms.cern.ch/el8_amd64_gcc11/external/py3-lizard/1.17.10-7325ccd1e86851bf627762cb90e094a4/bin"
+    ]
+  },
+  "TOOLNAME": "py3-lizard",
+  "TOOLVERSION": "1.17.10-7325ccd1e86851bf627762cb90e094a4",
+  "VARIABLES": [
+    "PY3_LIZARD_BASE"
+  ]
+}

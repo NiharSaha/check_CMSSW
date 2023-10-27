@@ -1,0 +1,7 @@
+{
+  "LIB": [
+    "GLEW"
+  ],
+  "TOOLNAME": "rootglew",
+  "TOOLVERSION": "6.26.11-50eed3272fcfa103ebe9cf3182b98eb9"
+}

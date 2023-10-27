@@ -1,0 +1,21 @@
+{
+  "INCLUDE": [
+    "/cvmfs/cms.cern.ch/el8_amd64_gcc11/external/rdma-core/39.1-98699332870e832aee9b877306e0ec32/include"
+  ],
+  "LIBDIR": [
+    "/cvmfs/cms.cern.ch/el8_amd64_gcc11/external/rdma-core/39.1-98699332870e832aee9b877306e0ec32/lib64"
+  ],
+  "RDMA_CORE_BASE": "/cvmfs/cms.cern.ch/el8_amd64_gcc11/external/rdma-core/39.1-98699332870e832aee9b877306e0ec32",
+  "RUNTIME": {
+    "PATH:ROOT_INCLUDE_PATH": [
+      "/cvmfs/cms.cern.ch/el8_amd64_gcc11/external/rdma-core/39.1-98699332870e832aee9b877306e0ec32/include"
+    ]
+  },
+  "TOOLNAME": "rdma-core",
+  "TOOLVERSION": "39.1-98699332870e832aee9b877306e0ec32",
+  "VARIABLES": [
+    "RDMA_CORE_BASE",
+    "LIBDIR",
+    "INCLUDE"
+  ]
+}

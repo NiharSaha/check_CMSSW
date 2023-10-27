@@ -1,0 +1,8 @@
+<tool name="vdt_headers" version="0.4.3-7f0e798709b0c2350f0dab5c6fffd8dc">
+  <client>
+    <environment name="VDT_HEADERS_BASE" default="/cvmfs/cms.cern.ch/el8_amd64_gcc11/cms/vdt/0.4.3-7f0e798709b0c2350f0dab5c6fffd8dc"/>
+    <environment name="INCLUDE" default="$VDT_HEADERS_BASE/include"/>
+  </client>
+  <runtime name="ROOT_INCLUDE_PATH" value="$INCLUDE" type="path"/>
+  <use name="root_cxxdefaults"/>
+</tool>

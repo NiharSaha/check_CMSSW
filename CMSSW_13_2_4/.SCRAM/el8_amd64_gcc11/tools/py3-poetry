@@ -1,0 +1,13 @@
+{
+  "PY3_POETRY_BASE": "/cvmfs/cms.cern.ch/el8_amd64_gcc11/external/py3-poetry/1.4.2-081ea6f454359f505e329b052647f9e0",
+  "RUNTIME": {
+    "PATH:PATH": [
+      "/cvmfs/cms.cern.ch/el8_amd64_gcc11/external/py3-poetry/1.4.2-081ea6f454359f505e329b052647f9e0/bin"
+    ]
+  },
+  "TOOLNAME": "py3-poetry",
+  "TOOLVERSION": "1.4.2-081ea6f454359f505e329b052647f9e0",
+  "VARIABLES": [
+    "PY3_POETRY_BASE"
+  ]
+}

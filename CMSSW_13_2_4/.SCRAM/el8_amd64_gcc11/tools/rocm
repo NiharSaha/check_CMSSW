@@ -1,0 +1,51 @@
+{
+  "BINDIR": [
+    "/cvmfs/cms.cern.ch/el8_amd64_gcc11/external/rocm/5.4.3-1dab3e4b9440033e3ae9cb3d28564caf/bin"
+  ],
+  "FLAGS": {
+    "CPPDEFINES": [
+      "__HIP_PLATFORM_HCC__",
+      "__HIP_PLATFORM_AMD__"
+    ],
+    "ROCM_FLAGS": [
+      "-fgpu-rdc",
+      "--offload-arch=gfx900",
+      "--offload-arch=gfx906",
+      "--offload-arch=gfx908",
+      "--offload-arch=gfx90a",
+      "--target=x86_64-redhat-linux-gnu",
+      "--gcc-toolchain=$(COMPILER_PATH)"
+    ],
+    "SYSTEM_INCLUDE": [
+      "1"
+    ]
+  },
+  "HIPCC": "/cvmfs/cms.cern.ch/el8_amd64_gcc11/external/rocm/5.4.3-1dab3e4b9440033e3ae9cb3d28564caf/bin/hipcc",
+  "INCLUDE": [
+    "/cvmfs/cms.cern.ch/el8_amd64_gcc11/external/rocm/5.4.3-1dab3e4b9440033e3ae9cb3d28564caf/include"
+  ],
+  "LIB": [
+    "amdhip64"
+  ],
+  "LIBDIR": [
+    "/cvmfs/cms.cern.ch/el8_amd64_gcc11/external/rocm/5.4.3-1dab3e4b9440033e3ae9cb3d28564caf/lib"
+  ],
+  "ROCM_BASE": "/cvmfs/cms.cern.ch/el8_amd64_gcc11/external/rocm/5.4.3-1dab3e4b9440033e3ae9cb3d28564caf",
+  "RUNTIME": {
+    "PATH:PATH": [
+      "/cvmfs/cms.cern.ch/el8_amd64_gcc11/external/rocm/5.4.3-1dab3e4b9440033e3ae9cb3d28564caf/bin"
+    ],
+    "PATH:ROOT_INCLUDE_PATH": [
+      "/cvmfs/cms.cern.ch/el8_amd64_gcc11/external/rocm/5.4.3-1dab3e4b9440033e3ae9cb3d28564caf/include"
+    ]
+  },
+  "TOOLNAME": "rocm",
+  "TOOLVERSION": "5.4.3-1dab3e4b9440033e3ae9cb3d28564caf",
+  "VARIABLES": [
+    "ROCM_BASE",
+    "HIPCC",
+    "BINDIR",
+    "LIBDIR",
+    "INCLUDE"
+  ]
+}

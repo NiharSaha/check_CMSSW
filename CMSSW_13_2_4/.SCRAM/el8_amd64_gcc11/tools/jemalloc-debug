@@ -1,0 +1,27 @@
+{
+  "INCLUDE": [
+    "/cvmfs/cms.cern.ch/el8_amd64_gcc11/external/jemalloc-debug/5.3.0-75f5d20e1a9c38bb9292d13cf3ede57d/include"
+  ],
+  "JEMALLOC_BASE": "/cvmfs/cms.cern.ch/el8_amd64_gcc11/external/jemalloc-debug/5.3.0-75f5d20e1a9c38bb9292d13cf3ede57d",
+  "LIB": [
+    "jemalloc-debug"
+  ],
+  "LIBDIR": [
+    "/cvmfs/cms.cern.ch/el8_amd64_gcc11/external/jemalloc-debug/5.3.0-75f5d20e1a9c38bb9292d13cf3ede57d/lib"
+  ],
+  "RUNTIME": {
+    "PATH:ROOT_INCLUDE_PATH": [
+      "/cvmfs/cms.cern.ch/el8_amd64_gcc11/external/jemalloc-debug/5.3.0-75f5d20e1a9c38bb9292d13cf3ede57d/include"
+    ]
+  },
+  "TOOLNAME": "jemalloc-debug",
+  "TOOLVERSION": "5.3.0-75f5d20e1a9c38bb9292d13cf3ede57d",
+  "USE": [
+    "root_cxxdefaults"
+  ],
+  "VARIABLES": [
+    "JEMALLOC_BASE",
+    "LIBDIR",
+    "INCLUDE"
+  ]
+}

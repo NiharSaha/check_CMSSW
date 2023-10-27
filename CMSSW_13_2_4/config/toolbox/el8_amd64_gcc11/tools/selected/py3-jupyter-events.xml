@@ -1,0 +1,6 @@
+<tool name="py3-jupyter-events" version="0.6.3-dfae4fffae85e30540108755dc3954ba">
+  <client>
+    <environment name="PY3_JUPYTER_EVENTS_BASE" default="/cvmfs/cms.cern.ch/el8_amd64_gcc11/external/py3-jupyter-events/0.6.3-dfae4fffae85e30540108755dc3954ba"/>
+  </client>
+  <runtime name="PATH" value="$PY3_JUPYTER_EVENTS_BASE/bin" type="path"/>
+</tool>

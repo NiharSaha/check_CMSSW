@@ -1,0 +1,9 @@
+tmp/el8_amd64_gcc11/src/HeavyIonsAnalysis/MuonAnalysis/plugins/HeavyIonsAnalysisMuonAnalysisAuto/EmbedL1HLTinMuons.cc.o: \
+ src/HeavyIonsAnalysis/MuonAnalysis/plugins/EmbedL1HLTinMuons.cc \
+
+tmp/el8_amd64_gcc11/src/HeavyIonsAnalysis/MuonAnalysis/plugins/HeavyIonsAnalysisMuonAnalysisAuto/EmbedMCinMuons.cc.o: \
+ src/HeavyIonsAnalysis/MuonAnalysis/plugins/EmbedMCinMuons.cc \
+
+tmp/el8_amd64_gcc11/src/HeavyIonsAnalysis/MuonAnalysis/plugins/HeavyIonsAnalysisMuonAnalysisAuto/MuonUnpacker.cc.o: \
+ src/HeavyIonsAnalysis/MuonAnalysis/plugins/MuonUnpacker.cc \
+

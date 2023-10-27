@@ -1,0 +1,5 @@
+<tool name="google-benchmark-main" version="1.7.x-60d7c0f2ce36072467f38d76d5a7ca69">
+  <info url="https://github.com/google/benchmark"/>
+  <lib name="benchmark_main"/>
+  <use name="google-benchmark"/>
+</tool>

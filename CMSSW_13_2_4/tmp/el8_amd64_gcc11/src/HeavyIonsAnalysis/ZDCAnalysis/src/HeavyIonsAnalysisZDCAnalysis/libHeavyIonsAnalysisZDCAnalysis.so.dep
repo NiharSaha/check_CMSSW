@@ -1,0 +1,11 @@
+tmp/el8_amd64_gcc11/src/HeavyIonsAnalysis/ZDCAnalysis/src/HeavyIonsAnalysisZDCAnalysis/QWZDC2018Producer2.cc.o: \
+ src/HeavyIonsAnalysis/ZDCAnalysis/src/QWZDC2018Producer2.cc \
+ src/HeavyIonsAnalysis/ZDCAnalysis/src/QWZDC2018Helper.h
+
+tmp/el8_amd64_gcc11/src/HeavyIonsAnalysis/ZDCAnalysis/src/HeavyIonsAnalysisZDCAnalysis/QWZDC2018RecHit.cc.o: \
+ src/HeavyIonsAnalysis/ZDCAnalysis/src/QWZDC2018RecHit.cc \
+
+tmp/el8_amd64_gcc11/src/HeavyIonsAnalysis/ZDCAnalysis/src/HeavyIonsAnalysisZDCAnalysis/ZDCTreeProducer.cc.o: \
+ src/HeavyIonsAnalysis/ZDCAnalysis/src/ZDCTreeProducer.cc \
+ src/HeavyIonsAnalysis/ZDCAnalysis/src/QWZDC2018Helper.h
+

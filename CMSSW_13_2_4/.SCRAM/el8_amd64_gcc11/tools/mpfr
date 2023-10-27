@@ -1,0 +1,19 @@
+{
+  "INCLUDE": [
+    "/cvmfs/cms.cern.ch/el8_amd64_gcc11/external/mpfr-static/4.1.0-10c53cf873694a4de358b7c5ce00d318/include"
+  ],
+  "LIB": [
+    "mpfr"
+  ],
+  "LIBDIR": [
+    "/cvmfs/cms.cern.ch/el8_amd64_gcc11/external/mpfr-static/4.1.0-10c53cf873694a4de358b7c5ce00d318/lib"
+  ],
+  "MPFR_BASE": "/cvmfs/cms.cern.ch/el8_amd64_gcc11/external/mpfr-static/4.1.0-10c53cf873694a4de358b7c5ce00d318",
+  "TOOLNAME": "mpfr",
+  "TOOLVERSION": "4.1.0-10c53cf873694a4de358b7c5ce00d318",
+  "VARIABLES": [
+    "MPFR_BASE",
+    "INCLUDE",
+    "LIBDIR"
+  ]
+}

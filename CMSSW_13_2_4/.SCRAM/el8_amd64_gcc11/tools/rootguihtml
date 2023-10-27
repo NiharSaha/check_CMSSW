@@ -1,0 +1,11 @@
+{
+  "LIB": [
+    "GuiHtml"
+  ],
+  "TOOLNAME": "rootguihtml",
+  "TOOLVERSION": "6.26.11-50eed3272fcfa103ebe9cf3182b98eb9",
+  "USE": [
+    "rootgui",
+    "rootinteractive"
+  ]
+}

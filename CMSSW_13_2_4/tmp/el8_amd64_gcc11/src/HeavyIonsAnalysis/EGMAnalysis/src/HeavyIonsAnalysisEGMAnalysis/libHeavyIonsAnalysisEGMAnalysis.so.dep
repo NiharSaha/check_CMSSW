@@ -1,0 +1,8 @@
+tmp/el8_amd64_gcc11/src/HeavyIonsAnalysis/EGMAnalysis/src/HeavyIonsAnalysisEGMAnalysis/EnergyScaleCorrector.cc.o: \
+ src/HeavyIonsAnalysis/EGMAnalysis/src/EnergyScaleCorrector.cc \
+ src/HeavyIonsAnalysis/EGMAnalysis/interface/EnergyScaleCorrector.h \
+
+tmp/el8_amd64_gcc11/src/HeavyIonsAnalysis/EGMAnalysis/src/HeavyIonsAnalysisEGMAnalysis/pfIsoCalculator.cc.o: \
+ src/HeavyIonsAnalysis/EGMAnalysis/src/pfIsoCalculator.cc \
+ src/HeavyIonsAnalysis/EGMAnalysis/interface/pfIsoCalculator.h \
+

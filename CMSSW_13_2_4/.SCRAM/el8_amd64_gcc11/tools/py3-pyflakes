@@ -1,0 +1,13 @@
+{
+  "PY3_PYFLAKES_BASE": "/cvmfs/cms.cern.ch/el8_amd64_gcc11/external/py3-pyflakes/3.0.1-62f3d5a404edca3c2c8b81c7bc444a46",
+  "RUNTIME": {
+    "PATH:PATH": [
+      "/cvmfs/cms.cern.ch/el8_amd64_gcc11/external/py3-pyflakes/3.0.1-62f3d5a404edca3c2c8b81c7bc444a46/bin"
+    ]
+  },
+  "TOOLNAME": "py3-pyflakes",
+  "TOOLVERSION": "3.0.1-62f3d5a404edca3c2c8b81c7bc444a46",
+  "VARIABLES": [
+    "PY3_PYFLAKES_BASE"
+  ]
+}

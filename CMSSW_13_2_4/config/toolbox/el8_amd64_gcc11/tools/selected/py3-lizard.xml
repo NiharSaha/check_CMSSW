@@ -1,0 +1,6 @@
+<tool name="py3-lizard" version="1.17.10-7325ccd1e86851bf627762cb90e094a4">
+  <client>
+    <environment name="PY3_LIZARD_BASE" default="/cvmfs/cms.cern.ch/el8_amd64_gcc11/external/py3-lizard/1.17.10-7325ccd1e86851bf627762cb90e094a4"/>
+  </client>
+  <runtime name="PATH" value="$PY3_LIZARD_BASE/bin" type="path"/>
+</tool>
