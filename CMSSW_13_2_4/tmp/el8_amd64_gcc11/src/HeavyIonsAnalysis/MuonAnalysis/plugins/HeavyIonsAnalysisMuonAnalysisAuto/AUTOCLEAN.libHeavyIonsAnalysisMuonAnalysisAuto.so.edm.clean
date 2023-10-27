@@ -1,2 +1,0 @@
-01:/usr/bin/rm -f lib/el8_amd64_gcc11/pluginHeavyIonsAnalysisMuonAnalysisAuto.so lib/el8_amd64_gcc11/HeavyIonsAnalysisMuonAnalysisAuto.edmplugin
-90:edmPluginRefresh lib/el8_amd64_gcc11

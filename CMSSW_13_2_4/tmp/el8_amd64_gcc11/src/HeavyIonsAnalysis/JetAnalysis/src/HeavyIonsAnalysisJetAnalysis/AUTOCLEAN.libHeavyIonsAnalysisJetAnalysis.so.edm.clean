@@ -1,2 +1,0 @@
-01:/usr/bin/rm -f lib/el8_amd64_gcc11/pluginHeavyIonsAnalysisJetAnalysis.so lib/el8_amd64_gcc11/HeavyIonsAnalysisJetAnalysis.edmplugin
-90:edmPluginRefresh lib/el8_amd64_gcc11

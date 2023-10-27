@@ -1,2 +1,0 @@
-ALL_PACKAGES += HeavyIonsAnalysis/TrackAnalysis
-subdirs_src_HeavyIonsAnalysis_TrackAnalysis := src_HeavyIonsAnalysis_TrackAnalysis_plugins src_HeavyIonsAnalysis_TrackAnalysis_python src_HeavyIonsAnalysis_TrackAnalysis_src

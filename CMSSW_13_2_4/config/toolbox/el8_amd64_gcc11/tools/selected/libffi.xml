@@ -1,8 +1,0 @@
-<tool name="libffi" version="3.4.2-3fff598660e84b9ea1093a133bfdd87f">
-  <lib name="ffi"/>
-  <client>
-    <environment name="LIBFFI_BASE" default="/cvmfs/cms.cern.ch/el8_amd64_gcc11/external/libffi/3.4.2-3fff598660e84b9ea1093a133bfdd87f"/>
-    <environment name="LIBDIR" default="$LIBFFI_BASE/lib64"/>
-    <environment name="INCLUDE" default="$LIBFFI_BASE/include"/>
-  </client>
-</tool>

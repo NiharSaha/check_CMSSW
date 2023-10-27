@@ -1,2 +1,0 @@
-ALL_PACKAGES += HeavyIonsAnalysis/ZDCAnalysis
-subdirs_src_HeavyIonsAnalysis_ZDCAnalysis := src_HeavyIonsAnalysis_ZDCAnalysis_python src_HeavyIonsAnalysis_ZDCAnalysis_src

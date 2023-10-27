@@ -1,5 +1,0 @@
-<tool name="cuda-nvml" version="11.8.0-9f0af0f4206be7b705fe550319c49a11">
-  <info url="https://docs.nvidia.com/deploy/nvml-api/index.html"/>
-  <use name="cuda-stubs"/>
-  <lib name="nvidia-ml"/>
-</tool>

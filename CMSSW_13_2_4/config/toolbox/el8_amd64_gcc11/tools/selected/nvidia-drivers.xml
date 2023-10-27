@@ -1,8 +1,0 @@
-<tool name="nvidia-drivers" version="11.8.0-9f0af0f4206be7b705fe550319c49a11">
-  <info url="https://docs.nvidia.com/cuda/index.html"/>
-  <client>
-    <environment name="NVIDIA_DRIVERS_BASE" default="/cvmfs/cms.cern.ch/el8_amd64_gcc11/external/cuda/11.8.0-9f0af0f4206be7b705fe550319c49a11"/>
-    <environment name="LIBDIR"              default="$NVIDIA_DRIVERS_BASE/drivers"/>
-  </client>
-  <flags SKIP_TOOL_SYMLINKS="1"/>
-</tool>

@@ -1,2 +1,0 @@
-ALL_PACKAGES += HeavyIonsAnalysis/MuonAnalysis
-subdirs_src_HeavyIonsAnalysis_MuonAnalysis := src_HeavyIonsAnalysis_MuonAnalysis_plugins src_HeavyIonsAnalysis_MuonAnalysis_python src_HeavyIonsAnalysis_MuonAnalysis_src
